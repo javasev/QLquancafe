@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLQuanCaphe\\QLQuanCaphe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|d:\\qlquancaphe\\qlquancaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\uchoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\uchoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ucbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ucbanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ucdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ucdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\ucdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\ucdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\report\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\uctrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\uctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\uctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\uchoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\uchoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\uctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:form\\uctaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\qlquancaphedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:qlquancaphedataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fDoiMK.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "FORM\\fDoiMK.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs [Design]",
+              "RelativeToolTip": "FORM\\fDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T11:22:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs",
+              "RelativeDocumentMoniker": "FORM\\fTrangChu.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs [Design]",
+              "RelativeToolTip": "FORM\\fTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T11:21:17.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fDangNhap.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "FORM\\fDangNhap.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs",
+              "RelativeToolTip": "FORM\\fDangNhap.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T10:44:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\AccountDAO.cs",
+              "RelativeToolTip": "DAO\\AccountDAO.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fInHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs",
+              "RelativeDocumentMoniker": "REPORT\\fInHoaDon.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs [Design]",
+              "RelativeToolTip": "REPORT\\fInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs",
+              "RelativeDocumentMoniker": "FORM\\fDangNhap.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs [Design]",
+              "RelativeToolTip": "FORM\\fDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-26T16:38:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fInHoaDon.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs",
+              "RelativeDocumentMoniker": "REPORT\\fInHoaDon.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs",
+              "RelativeToolTip": "REPORT\\fInHoaDon.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:42.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucHoaDon.cs",
+              "RelativeDocumentMoniker": "FORM\\ucHoaDon.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucHoaDon.cs [Design]",
+              "RelativeToolTip": "FORM\\ucHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T14:33:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fDoiMK.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "FORM\\fDoiMK.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
+              "RelativeToolTip": "FORM\\fDoiMK.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T11:22:11.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fTrangChu.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs",
+              "RelativeDocumentMoniker": "FORM\\fTrangChu.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs",
+              "RelativeToolTip": "FORM\\fTrangChu.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T11:21:21.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucSanPham.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs",
+              "RelativeDocumentMoniker": "FORM\\ucSanPham.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs",
+              "RelativeToolTip": "FORM\\ucSanPham.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-17T10:59:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucDanhMuc.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDanhMuc.cs",
+              "RelativeDocumentMoniker": "FORM\\ucDanhMuc.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDanhMuc.cs [Design]",
+              "RelativeToolTip": "FORM\\ucDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-17T10:50:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucBanAn.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucBanAn.cs",
+              "RelativeDocumentMoniker": "FORM\\ucBanAn.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucBanAn.cs [Design]",
+              "RelativeToolTip": "FORM\\ucBanAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-17T06:07:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDoanhThu.cs",
+              "RelativeDocumentMoniker": "FORM\\ucDoanhThu.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDoanhThu.cs [Design]",
+              "RelativeToolTip": "FORM\\ucDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-17T10:50:34.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs",
+              "RelativeDocumentMoniker": "FORM\\ucSanPham.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs [Design]",
+              "RelativeToolTip": "FORM\\ucSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTrangChu.cs",
+              "RelativeDocumentMoniker": "FORM\\ucTrangChu.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTrangChu.cs [Design]",
+              "RelativeToolTip": "FORM\\ucTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTaiKhoan.cs",
+              "RelativeDocumentMoniker": "FORM\\ucTaiKhoan.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTaiKhoan.cs [Design]",
+              "RelativeToolTip": "FORM\\ucTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\Report1.rdlc",
+              "RelativeDocumentMoniker": "REPORT\\Report1.rdlc",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\Report1.rdlc [Design]",
+              "RelativeToolTip": "REPORT\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-26T16:27:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TableDAO.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\TableDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TableDAO.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\TableDAO.cs",
+              "RelativeToolTip": "DAO\\TableDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:45:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SDataReader.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
+              "RelativeDocumentMoniker": "DAO\\SDataReader.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
+              "RelativeToolTip": "DAO\\SDataReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:55.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "DataSet1.xsd",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DataSet1.xsd",
+              "RelativeToolTip": "DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataSet1.Designer.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "DataSet1.Designer.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DataSet1.Designer.cs",
+              "RelativeToolTip": "DataSet1.Designer.cs",
+              "ViewState": "AQIAAEIDAAAAAAAAAAAwwEwDAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-26T15:45:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuDAO.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\MenuDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\MenuDAO.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\MenuDAO.cs",
+              "RelativeToolTip": "DAO\\MenuDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:17.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DAO\\DataProvider.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:28.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProductDAO.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DAO\\ProductDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BillDAO.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "DAO\\BillDAO.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:43:52.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ucHoaDon.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucHoaDon.cs",
+              "RelativeDocumentMoniker": "FORM\\ucHoaDon.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucHoaDon.cs",
+              "RelativeToolTip": "FORM\\ucHoaDon.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAmwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T14:33:33.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QLQuancapheDataSet.xsd",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\QLQuancapheDataSet.xsd",
+              "RelativeDocumentMoniker": "QLQuancapheDataSet.xsd",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\QLQuancapheDataSet.xsd",
+              "RelativeToolTip": "QLQuancapheDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000835|",
+              "WhenOpened": "2024-04-26T10:44:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ucTaiKhoan.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTaiKhoan.cs",
+              "RelativeDocumentMoniker": "FORM\\ucTaiKhoan.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTaiKhoan.cs",
+              "RelativeToolTip": "FORM\\ucTaiKhoan.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "DTO\\Account.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DTO\\Account.cs",
+              "RelativeToolTip": "DTO\\Account.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
