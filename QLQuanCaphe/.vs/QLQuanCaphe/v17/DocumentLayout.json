@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\QLQuanCaphe\\QLQuanCaphe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|d:\\qlquancaphe\\qlquancaphe\\dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|d:\\qlquancaphe\\qlquancaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -165,8 +165,7 @@
               "RelativeToolTip": "DAO\\AccountDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T10:44:40.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
             },
             {
               "$type": "Document",
@@ -177,8 +176,7 @@
               "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs [Design]",
               "RelativeToolTip": "REPORT\\fInHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T10:44:40.165Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-26T10:44:40.165Z"
             },
             {
               "$type": "Document",
@@ -211,7 +209,7 @@
               "RelativeDocumentMoniker": "DAO\\SDataReader.cs",
               "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
               "RelativeToolTip": "DAO\\SDataReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T15:44:55.188Z",
               "EditorCaption": ""

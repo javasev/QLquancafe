@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\QLQuanCaphe\\QLQuanCaphe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|d:\\qlquancaphe\\qlquancaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|d:\\qlquancaphe\\qlquancaphe\\report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:report\\finhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\form\\fdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dao\\sdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|D:\\QLQuanCaphe\\QLQuanCaphe\\dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274C1306-9489-4CE7-8D99-E225669A0210}|QLQuanCaphe.csproj|solutionrelative:dataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,22 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "fDoiMK.cs [Design]",
-              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
-              "RelativeDocumentMoniker": "FORM\\fDoiMK.cs",
-              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs [Design]",
-              "RelativeToolTip": "FORM\\fDoiMK.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-05-17T11:22:07.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "fTrangChu.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs",
               "RelativeDocumentMoniker": "FORM\\fTrangChu.cs",
@@ -156,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "fDangNhap.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs",
               "RelativeDocumentMoniker": "FORM\\fDangNhap.cs",
@@ -174,13 +163,14 @@
               "RelativeDocumentMoniker": "DAO\\AccountDAO.cs",
               "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\AccountDAO.cs",
               "RelativeToolTip": "DAO\\AccountDAO.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwAsAAAAUAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T10:44:40.165Z"
+              "WhenOpened": "2024-04-26T10:44:40.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "fInHoaDon.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs",
               "RelativeDocumentMoniker": "REPORT\\fInHoaDon.cs",
@@ -192,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "fDangNhap.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDangNhap.cs",
               "RelativeDocumentMoniker": "FORM\\fDangNhap.cs",
@@ -203,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "fInHoaDon.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\fInHoaDon.cs",
               "RelativeDocumentMoniker": "REPORT\\fInHoaDon.cs",
@@ -215,7 +205,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "SDataReader.cs",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
+              "RelativeDocumentMoniker": "DAO\\SDataReader.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
+              "RelativeToolTip": "DAO\\SDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:44:55.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fDoiMK.cs [Design]",
+              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "FORM\\fDoiMK.cs",
+              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs [Design]",
+              "RelativeToolTip": "FORM\\fDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-17T11:22:07.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ucHoaDon.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucHoaDon.cs",
               "RelativeDocumentMoniker": "FORM\\ucHoaDon.cs",
@@ -226,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "fDoiMK.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fDoiMK.cs",
               "RelativeDocumentMoniker": "FORM\\fDoiMK.cs",
@@ -238,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "fTrangChu.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\fTrangChu.cs",
               "RelativeDocumentMoniker": "FORM\\fTrangChu.cs",
@@ -250,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ucSanPham.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs",
               "RelativeDocumentMoniker": "FORM\\ucSanPham.cs",
@@ -262,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ucDanhMuc.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDanhMuc.cs",
               "RelativeDocumentMoniker": "FORM\\ucDanhMuc.cs",
@@ -273,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ucBanAn.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucBanAn.cs",
               "RelativeDocumentMoniker": "FORM\\ucBanAn.cs",
@@ -284,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ucDoanhThu.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucDoanhThu.cs",
               "RelativeDocumentMoniker": "FORM\\ucDoanhThu.cs",
@@ -295,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ucSanPham.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucSanPham.cs",
               "RelativeDocumentMoniker": "FORM\\ucSanPham.cs",
@@ -306,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ucTrangChu.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTrangChu.cs",
               "RelativeDocumentMoniker": "FORM\\ucTrangChu.cs",
@@ -317,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ucTaiKhoan.cs [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\FORM\\ucTaiKhoan.cs",
               "RelativeDocumentMoniker": "FORM\\ucTaiKhoan.cs",
@@ -328,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Report1.rdlc [Design]",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\REPORT\\Report1.rdlc",
               "RelativeDocumentMoniker": "REPORT\\Report1.rdlc",
@@ -339,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "TableDAO.cs",
               "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\TableDAO.cs",
               "RelativeDocumentMoniker": "DAO\\TableDAO.cs",
@@ -348,18 +362,6 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T15:45:06.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SDataReader.cs",
-              "DocumentMoniker": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
-              "RelativeDocumentMoniker": "DAO\\SDataReader.cs",
-              "ToolTip": "D:\\QLQuanCaphe\\QLQuanCaphe\\DAO\\SDataReader.cs",
-              "RelativeToolTip": "DAO\\SDataReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T15:44:55.188Z"
             },
             {
               "$type": "Document",
